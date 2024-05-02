@@ -1,0 +1,45 @@
+Crie uma introdução não muito grande para um ebook com base nessas informações: 
+
+Nome: Karina Gomes
+Escolaridade: Bacharel em Sistemas de Informação na Unimetrocamp Wyden em campinas, atualmente cursando pós graduação em inteligencia artificial e machine learning pela PUC Minas. 
+Tema do ebook: A importancia sobre anonimização de dados e proteção de dados na era da inteligencia artificial. 
+
+
+################
+
+Crie uma introdução não muito grande para um ebook com base nessas informações: 
+
+Nome: Karina Gomes
+Escolaridade: Bacharel em Sistemas de Informação na Unimetrocamp Wyden em campinas, atualmente cursando pós graduação em inteligencia artificial e machine learning pela PUC Minas. 
+Tema do ebook: A importancia sobre anonimização de dados e proteção de dados na era da inteligencia artificial. 
+
+
+#################
+
+
+Agora iremos criar o primeiro capitulo, com base na introdução e com base neste capitulo, gere o capítulo através desses pontos: 
+Assunto do capítulo: A crescente coleta e análise de dados pela inteligência artificial, e introduza uma breve história sobre a coleta de dados e a inteligência artificial;
+Persona: um estudante que está iniciando no assunto. 
+
+
+#################
+
+com base na introdução e com base neste capitulo, gere o capítulo através desses pontos: 
+
+Assunto do capítulo: Os riscos à privacidade e à segurança dos indivíduos;
+
+#################
+
+No terceiro capitulo escreve referente a estes assuntos: 
+
+Assunto: As técnicas de anonimização de dados e seus benefícios 
+
+
+#################
+
+Agora escreva um capitulo referente a este assunto: A importância da legislação e das boas práticas para a proteção de dado, adicione os subcapitulos. 
+
+
+#################
+
+este é o ultimo capitulo do ebook: gere o capitulo sobre este assunto: O papel do indivíduo na era da inteligência artificial, e coloque os subcapitulos.
